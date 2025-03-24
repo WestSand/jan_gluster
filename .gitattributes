@@ -1,2 +1,1 @@
-jan_pypi_rpm.zip filter=lfs diff=lfs merge=lfs -text
 Jan_Python.zip filter=lfs diff=lfs merge=lfs -text
